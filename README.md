@@ -1,6 +1,6 @@
 # The Maze
 ## Overview of the Game:
-The idea for the project was essentially PACMAN but in 3D, however unlike PACMAN, the game is in first person and the player cannot see the full maze. The goal of the game is for the player to get a score of 30 before getting caught by the shadow. The game is supposed to be a horror game, with the constant feeling of being chased.
+The idea for the project was essentially PACMAN but in 3D, however unlike PACMAN, the game is in first person and the player cannot see the full layout of the maze. The goal of the game is for the player to get a score of 30 before getting caught by the shadow. The game is supposed to be a horror game, with the constant feeling of being chased.
 
 ## The main parts of the game are:
 •	Player – collision with the points and the enemy. Is moved with WASD.
