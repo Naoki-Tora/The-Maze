@@ -5,7 +5,7 @@ using UnityEngine;
 public class LookSc : MonoBehaviour
 {
     //Sets mouse sensitivity
-    public float mouseSensitivity = 200f;
+    public float mouseSensitivity = 600f;
 
     public Transform playerBody;
     float xRotation = 0f;
